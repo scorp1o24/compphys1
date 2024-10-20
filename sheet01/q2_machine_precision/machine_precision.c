@@ -15,7 +15,6 @@ int main(){
     eps_d /= 2;
     x_d = 1+eps_d;
     printf("eps_d: %d ...... x_d: %.5d\n",eps_d,x_d);
-
   }
   return 0;
 }
